@@ -13,18 +13,18 @@ The system includes:
 - Robot movement control
 - Auto mode
 - Real-time distance monitoring
-- Data visualization dashboard
+- Dashboard interface
 
 ---
 
 ## Technologies Used
 
 - ESP32
-- Arduino
 - Node-RED
 - JSON
 - Serial Communication
 - Ultrasonic Sensor
+- L298N Motor Driver
 
 ---
 
@@ -32,8 +32,8 @@ The system includes:
 
 - Forward / Back / Left / Right movement
 - Auto driving mode
-- Login system for security
-- Real-time distance chart
+- Login authentication system
+- Real-time distance monitoring
 - Dashboard control interface
 - CSV data logging
 
